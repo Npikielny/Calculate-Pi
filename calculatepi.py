@@ -1,6 +1,6 @@
 """
 calculatepi.py
-Author: <your name here>
+Author: Noah Pikiely
 Credit: https://www.math.hmc.edu/funfacts/ffiles/30001.1-3.shtml
 - I used them to find the taylor series of pi because the resources on github were not working (no code was taken)
 Assignment:
