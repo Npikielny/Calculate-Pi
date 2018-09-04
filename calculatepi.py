@@ -1,7 +1,8 @@
 """
 calculatepi.py
 Author: <your name here>
-Credit: <list sources used, if any>
+Credit: https://www.math.hmc.edu/funfacts/ffiles/30001.1-3.shtml
+- I used them to find the taylor series of pi because the resources on github were not working (no code was taken)
 Assignment:
 
 Write and submit a Python program that computes an approximate value of π by calculating the following sum:
